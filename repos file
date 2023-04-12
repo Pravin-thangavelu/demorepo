@@ -1,0 +1,7 @@
+A.	Github – use buttons to create new branch
+B.	Terminal – type git branch <branch name> & enter
+Shows master branch name, in active 
+Type – git push
+Type – git checkout <branch name>
+Shows <branch name> in active
+ 
